@@ -3,9 +3,11 @@
 A Continuous Control Implementation for TensorFlow 2.0
 Author: W.J.A. van Heeswijk
 Date: 11-8-2020
-This code is supplemental to the following paper:
+This code is supplemental to the following note:
 'Implementing Gaussian Actor Networks for  Continuous Control in TensorFlow 2.0'
-https://arxiv.org/ (2020)
+https://www.researchgate.net/publication/343714359_Implementing_Gaussian_Actor_Networks_for_Continuous_Control_in_TensorFlow_20
+Corresponding blog post:
+https://towardsdatascience.com/a-minimal-working-example-for-continuous-policy-gradients-in-tensorflow-2-0-d3413ec38c6b
 Python 3.8 and TensorFlow 2.3 were used to write the algorithm
 This code has been published under the GNU GPLv3 license
 """
